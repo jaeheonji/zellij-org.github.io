@@ -1,7 +1,5 @@
 # FAQ
 
-THIS IS TEST LINE FOR GITHUB ACTIONS
-
 ## Zellij overrides certain key combinations that I use for other apps, what can I do?
 The best and easiest way is to choose the "Unlock-First (non-colliding)" [keybinding preset](./keybinding-presets.md). If that is not sufficient for your use case, you can also [choose different modifiers](./changing-modifiers.md).
 
